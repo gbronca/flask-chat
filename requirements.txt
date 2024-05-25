@@ -9,5 +9,5 @@ mccabe==0.6.1
 pylint==2.2.0
 six==1.11.0
 virtualenv==16.1.0
-Werkzeug==3.0.1
+Werkzeug==3.0.3
 wrapt==1.10.11
